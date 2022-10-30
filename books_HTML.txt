@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Books'Information in HTML format</title>
+        <style>
+            table, th, td {
+                border: 1px solid black;
+            }
+        </style>
+ <table>
+    <tr>
+        <th>Title</th>
+        <th>Author(s)</th>
+        <th>Edition</th>
+        <th>Edition</th>
+    </tr>
+    <tr>
+        <td>Big Data and Health Analytics</td>
+        <td>Katherine Marconi, Harold Lehmann</td>
+        <td>1st</td>
+        <td>December 20, 2014</td>
+    </tr>
+    <tr>
+        <td>Healthcare Data Analytics (Chapman & Hall/CRC Data Mining and Knowledge Discovery Series Book 36)</td>
+        <td>Charu C. Aggarwal, Chandan K. Reddy</td>
+        <td>1st</td>
+        <td>June 23, 2015</td>
+    </tr>
+    <tr>
+        <td>Data and Text Processing for Health and Life Sciences (Advances in Experimental Medicine and Biology Book 1137)</td>
+        <td>Francisco M. Couto</td>
+        <td>1st ed. 2019	</td>
+        <td>June 10, 2019</td>
+    </tr>
+</table>   
+    </body>
+</html>
